@@ -1,0 +1,10 @@
+[submodule "midifile"]
+	path = midifile
+	url = https://github.com/craigsapp/midifile.git
+[submodule "nanobench"]
+	path = nanobench
+	url = https://github.com/martinus/nanobench.git
+[submodule "symusic"]
+	path = symusic
+	url = https://github.com/Yikai-Liao/symusic
+	branch = librarify
